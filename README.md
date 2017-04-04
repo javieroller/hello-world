@@ -1,3 +1,5 @@
-# hello-world
-hola como estan
-hola
+x=1
+y=2
+z=x+y
+t=2*z
+
